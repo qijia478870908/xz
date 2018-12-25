@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # X-admin
 
 简介
@@ -23,3 +24,6 @@ http://x.xuebingsi.com
 
 * 登录页面加上动画效果
 * 首页欢迎页面也加动画效果
+=======
+# xz
+>>>>>>> f9e4fcdc2c9dc78a026c69b6bde3c1598c5650f1
